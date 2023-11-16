@@ -1,0 +1,107 @@
+*{
+    padding: 0;margin: 0;
+}
+
+.loginpage{
+    display: grid;
+    grid-template-columns: 65% 35%;
+}
+.loginleft{
+padding: 32px 17px;
+height :660px;
+overflow: scroll;
+overflow-x: hidden;
+}
+.heading{
+font-family: 'Times New Roman', Times, serif;
+font-size: 36px;
+color:rgb(11, 153, 111) ;
+}
+.details{
+    margin-top: 60px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.details > h1{
+    color:#1b1b1b;
+    font-size: 33px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    font-family: Tomato-Grotesk-Semibold, Verdana, sans-serif, ui-sans-serif, "system-ui", -apple-system;
+}
+.details >a{
+    color: black;
+    
+}
+.details >p{
+    font-size: 20px;
+    margin-bottom: 3px;
+    
+}
+.details >a:hover{
+    color: blue;
+}
+.loginright{
+    background-image: url("https://static.brevo.com/onboarding/images/sidebar_brevo.webp");
+    background-size: cover;
+    background-repeat: no;
+}
+
+.star{
+    color: red;
+}
+form{
+    margin-top: 40px;
+}
+.email, .password {
+    font-size: 18px;
+    font-family:  Arial, sans-serif, ui-sans-serif, "system-ui", -apple-system;
+    margin-bottom: 20px;
+}
+#email, #password {
+    border-radius: 10px;
+    height:40px;
+    width: 522px;
+    border:2px solid rgb(233, 240, 238);
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.loginbtn{
+    background-color: grey;
+    color: white;
+    font-family: Inter-SemiBold, Arial, sans-serif, ui-sans-serif, "system-ui", -apple-system;;
+    height:40px;
+    width: 522px;
+    border-radius: 20px;
+    margin-top: 30px;
+    border: none;
+}
+.google, .apple {
+    background-color: white;
+    height:43px;
+    width: 522px;
+    border-radius: 20px;
+    margin-top: 30px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    border: none;
+    justify-content: center;
+    border:2px solid rgb(233, 240, 238);
+    font-size:17px;
+    font-weight: bold;
+
+}
+form p{
+    color:rgb(107, 107, 107);
+    text-align: center;
+    margin-top: 30px;
+}
+.last{
+    color:rgb(42, 41, 41);
+    margin-top: 20px;
+}
+.last a{
+    color:rgb(42, 41, 41);
+}
+.last a:hover{
+    color: blue;
+}

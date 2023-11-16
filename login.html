@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Character encoding -->
+    <meta charset="UTF-8">
+    <!-- Responsive design for various devices -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Linking to external CSS file -->
+    <link rel="stylesheet" href="./login.css">
+    <!-- Favicon for the website -->
+    <link rel="icon" href="./images/title.png" type="image/x-icon">
+    <!-- Title displayed on the browser tab -->
+    <title>Login to your Brave Account</title>
+</head>
+<body>
+    <!-- Header section -->
+    <div class="header">
+        <!-- Title of the application -->
+        <h1>Brevo</h1>
+    </div>
+    <!-- Details and login form section -->
+    <div class="details">
+        <!-- Center-aligned login heading -->
+        <center><h2>Log In</h2></center>
+        <!-- Login form -->
+        <form id="form">
+            <!-- Email input field -->
+            <label class="email">Email address</label><br>
+            <input type="text" id="email"><br>
+            <!-- Password input field -->
+            <label class="password">Password</label><br>
+            <input type="password" id="password"><br>
+            <!-- Submit button for logging in -->
+            <input type="submit" class="loginbtn" value="Log In">
+            <!-- Separator or alternative login options -->
+            <p>____________________________<b>OR</b>____________________________</p>
+            <!-- Button to log in with Google -->
+            <button class="google">
+                <!-- Google logo -->
+                <img src="./images/download-removebg-preview.png" style="padding-right:5px; height: 25px; width:38px;">
+                Sign in with Google
+            </button><br>
+            <!-- Button to log in with Apple -->
+            <button class="apple">
+                <!-- Apple logo -->
+                <img src="./images/Apple-Logo-removebg-preview.png" style="height: 29px; width:55px;">
+                Sign in with Apple
+            </button>   
+        </form>
+    </div>
+    <!-- Center-aligned links -->
+    <center>
+        <!-- Link to create a new account -->
+        <a href="./signup.html">Create an account</a>
+        <!-- Link for password recovery -->
+        <a href="#">I forgot my password</a>
+    </center>
+</body>
+</html>
+<!-- Linking to an external JavaScript file -->
+<script src="./login.js"></script>
