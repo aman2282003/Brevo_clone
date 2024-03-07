@@ -1,6 +1,18 @@
 # Brevo_clone
 
-Construct week project
+## Tech Stack
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 badge">
+
+
+
+## Features
+
+- Login & Signup Functionality
+- Responsive Design
+- Authentication
+- Pop-up Notification
 #Landing page 
 ![Screenshot 2023-11-16 180024](https://github.com/aman2282003/Brevo_clone/assets/131010086/1d9b7fba-1bf9-4b3d-886d-8a0951021b41)
 
