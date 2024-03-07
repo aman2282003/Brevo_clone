@@ -13,7 +13,9 @@
 - Responsive Design
 - Authentication
 - Pop-up Notification
-#Landing page 
+#Landing page
+
+
 ![Screenshot 2023-11-16 180024](https://github.com/aman2282003/Brevo_clone/assets/131010086/1d9b7fba-1bf9-4b3d-886d-8a0951021b41)
 
 ![Screenshot 2023-11-16 180839](https://github.com/aman2282003/Brevo_clone/assets/131010086/06edc588-a4f4-4009-80f0-b379c56ce271)
